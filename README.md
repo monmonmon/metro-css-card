@@ -18,10 +18,10 @@ Usage
 Screenshots
 -----------
 Front
-![front](https://raw.githubusercontent.com/kobake/metro-css-card/master/screenshots/1_front.png)
+![front](https://raw.githubusercontent.com/monmonmon/metro-css-card/master/screenshots/1_front.png)
 
 Back
-![back](https://raw.githubusercontent.com/kobake/metro-css-card/master/screenshots/2_back.png)
+![back](https://raw.githubusercontent.com/monmonmon/metro-css-card/master/screenshots/2_back.png)
 
 Engine
 ------
